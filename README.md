@@ -1,7 +1,7 @@
 # Synchronous-Machine-Model
 This repo builds a dynamic model of a synchronous machine in MATLAB. 
 
-The model is based on Chapter 7 of 'Power System Dynamics and Stability: With Synchrophasor Measurement and Power System Toolbox (2nd Edition)' by Peter W. Sauer (Author), M. A. Pai (Author), Joe H. Chow (Author)
+The model is based on Chapter 7 of 'Power System Dynamics and Stability: With Synchrophasor Measurement and Power System Toolbox (2nd Edition)' by Sauer , Pai, & Chow.
 
 ## What is a Synchronous Machine?
 - Synchronous Machines are at the heart of electric power grids around the world.
